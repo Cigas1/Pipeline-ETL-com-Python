@@ -31,7 +31,7 @@ Os dados filtrados foram exportados para um arquivo .xlsx para serem vizualizado
 
 ## Demonstração
 
-![Demonstração](https://gifyu.com/image/S43lQ)
+![gravar-2023-09-13-23-00-52-706_iAO0jgUy](https://github.com/Cigas1/Pipeline-ETL-com-Python/assets/118562657/bacbed3a-2b76-4e2a-9eb6-d4be5bd4f3e7)
 
 ## Referência
 
